@@ -1,5 +1,7 @@
 # Amazon - Clone using ReactJs
-***[file:///C:/Users/Kunal%20Kulkarni/Pictures/Screenshots/Screenshot%20(618).png]***
+![Screenshot (618)](https://github.com/kunalbro369/Amazon-clone/assets/96117635/3a643142-c883-4fa6-81ba-7197c87daf5e)
+
+
 **Project Link** - ***[https://clone-15f28.web.app/]***
 
 ## Tech We Used
