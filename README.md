@@ -1,5 +1,5 @@
 # Amazon - Clone using ReactJs
-![Screenshot (618)](https://github.com/kunalbro369/Amazon-clone/assets/96117635/3a643142-c883-4fa6-81ba-7197c87daf5e)
+![Amazon app page ](https://github.com/kunalbro369/Amazon-clone/assets/96117635/3a643142-c883-4fa6-81ba-7197c87daf5e)
 
 
 **Project Link** - ***[https://clone-15f28.web.app/]***
